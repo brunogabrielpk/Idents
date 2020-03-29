@@ -23,4 +23,4 @@ erl_crash.dump
 identicon-*.tar
 
 *.png
-.elixir_ls
+.elixir_ls/
