@@ -8,5 +8,6 @@
 3. Use o comando:
 ```iex -S mix```
 4. Na shell que for inicializada digite:
-```Identicon.main("XXXXXXXXXXXXXX")```
+```Identicon.main("XXXXXXXXXXXXXX.png")```
  onde XXXXXXXXXXXXXX deve ser subistituído por um nome qualquer
+ 5. O arquivo é gerado na pasta do próprio projeto.
