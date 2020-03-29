@@ -5,5 +5,5 @@ Gerador de identificações visuais.
 # Modo de usar
 ## Clone o repositório
 ## Navegue pelo terminal até a pasta do programa
-## Use o comando 'iex -S mix'
-## Na shell que for inicializada digite 'Identicon.main("XXXXXXXXXXXXXX"), onde XXXXXXXXXXXXXX deve ser subistituído por um nome qualquer
+## Use o comando: ´´´iex -S mix´´´
+## Na shell que for inicializada digite: ´´´Identicon.main("XXXXXXXXXXXXXX")´´´, onde XXXXXXXXXXXXXX deve ser subistituído por um nome qualquer
