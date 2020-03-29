@@ -6,7 +6,7 @@
 1. Clone o repositório
 2. Navegue pelo terminal até a pasta do programa
 3. Use o comando:
-´´´iex -S mix´´´
+```iex -S mix```
 4. Na shell que for inicializada digite:
-´´´Identicon.main("XXXXXXXXXXXXXX")´´´
+```Identicon.main("XXXXXXXXXXXXXX")```
  onde XXXXXXXXXXXXXX deve ser subistituído por um nome qualquer
