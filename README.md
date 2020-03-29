@@ -1,9 +1,12 @@
-Gerador de identificações visuais.
+# Gerador de identificações visuais.
 
-# Necessário ter o elixir e erlang instalados instalados
+## Necessário ter o elixir e erlang instalados instalados
 
-# Modo de usar
-## Clone o repositório
-## Navegue pelo terminal até a pasta do programa
-## Use o comando: ´´´iex -S mix´´´
-## Na shell que for inicializada digite: ´´´Identicon.main("XXXXXXXXXXXXXX")´´´, onde XXXXXXXXXXXXXX deve ser subistituído por um nome qualquer
+## Modo de usar
+1. Clone o repositório
+2. Navegue pelo terminal até a pasta do programa
+3. Use o comando:
+´´´iex -S mix´´´
+4. Na shell que for inicializada digite:
+´´´Identicon.main("XXXXXXXXXXXXXX")´´´
+ onde XXXXXXXXXXXXXX deve ser subistituído por um nome qualquer
